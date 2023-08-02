@@ -16,3 +16,7 @@ The .NET Core API follows a well-organized and modular structure, with three mai
 Dependency Injection and Technology Stack: Throughout my work on these files, I made the most of .NET Core's dependency injection capabilities. By embracing this powerful technique, I achieved loosely coupled components, promoting easier maintenance and code reusability. This, in turn, has facilitated the team's efforts to extend and enhance the GPS tracking system.
 Conclusion: As a proud member of the team, I am delighted to share these three files as a testament to my involvement in this remarkable GPS tracking system project. The challenging and dynamic environment allowed me to hone my .NET Core skills and apply them effectively to create a well-structured and feature-rich API. My experience in adopting the dependency injection pattern and embracing various technologies has led to a seamless integration of components, setting a strong foundation for the continued development and success of this outstanding tracking system.
 
+## Contributions and license
+
+> **Note:** This repository is only for sample usage and no contribution is allowed.
+> All the sample codes are protected and copyrighed by Orang Pajohan Pajohan co. 

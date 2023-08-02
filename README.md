@@ -1,8 +1,13 @@
 # .NetCore
+
+## Description
+
 .NetCore Sample Files
 
 As a member of a dedicated team working on a large-scale GPS tracking system project, I had the privilege of contributing to several critical aspects of the application. Though I can only provide a glimpse of my work, I am excited to share three essential files from the project, each reflecting my expertise in building efficient and reliable .NET Core APIs.
-Project Structure and Design:
+
+## Project Structure and Design
+
 The .NET Core API follows a well-organized and modular structure, with three main folders - "Repository," "Service," and "Controller." This architectural design promotes separation of concerns and facilitates scalability.
 
 1. Repository Folder: The classes within the Repository folder are a cornerstone of our data management strategy. Each class corresponds to a table in the database and contains the necessary SQL commands for database transactions. By leveraging a connection string, we establish a secure and seamless connection to our database, ensuring the reliable storage and retrieval of crucial GPS tracking data.
